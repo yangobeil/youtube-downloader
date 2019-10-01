@@ -16,6 +16,6 @@ The other functions in the library can be useful separately as well.
 - get_urls: search for a specific word and returns a list of urls for the videos
 - max_label: find the maximum label for files called "name_##.jpg" in a folder
 
-I also wrote a blog post about this program for more details: 
+I also wrote a blog post about this program for more details: https://medium.com/@yan.gobeil/making-an-image-dataset-from-youtube-videos-5116252d20a3
 
 
